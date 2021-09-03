@@ -43,12 +43,10 @@ Minhas credenciais englobam atuação em uma das maiores empresas de serviços p
 **LinkedIn:** https://bit.ly/3jHWeLZ
 
 
-## Projetos:
-Veja os tutoriais publicados:
+## Artigos:
+Veja os artigos publicados:
 
-* **Problemas de negócios da House Rocket compra e venda de imóveis:**
-* **Data Science: Investigando o naufrágio do Titanic:**
-* **Como Tratar Dados Ausentes com Pandas:**
-* **Análise exploratória de pacientes de um hospital:**
+* **a**
 
 ---
+
