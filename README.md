@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 Cursando Big Data e Inteligência Analítica, formado em Ciências contábeis, pós-graduado em Controladoria e Finanças, em migração de carreira de auditoria interna e externa, para a carreira de ciências de dados.
 
-Como cientista de dados em desenvolvimento, possuo e combino habilidades analíticas com um conhecimento de negócios (Controladoria e finanças) proporcionado pela minha carreira de auditoria das demonstrações contábeis, em clientes de diversos mercados e portes, como Coca-Cola, Caixa Econômica Federal e Totvs, bem como na formação na escola de negócios IBMEC.
+Como cientista de dados em desenvolvimento, possuo e combino habilidades analíticas com um conhecimento de negócios (Controladoria e finanças) proporcionado pela minha carreira de auditoria contábil, em clientes de diversos mercados e portes, como Coca-Cola, Caixa Econômica Federal e Totvs, bem como na formação na escola de negócios IBMEC.
 
 Atualmente, desenvolvendo projetos independentes, com problemas de negócios reais, que um cientista de dados ou um analista de dados já soluciona.
 
@@ -40,4 +40,15 @@ Minhas credenciais englobam atuação em uma das maiores empresas de serviços p
 
 **Links:**
 
-*LinkedIn: https://bit.ly/3jHWeLZ
+**LinkedIn:** https://bit.ly/3jHWeLZ
+
+
+## Projetos:
+Veja os tutoriais publicados:
+
+* **Problemas de negócios da House Rocket compra e venda de imóveis:**
+* **Data Science: Investigando o naufrágio do Titanic:**
+* **Como Tratar Dados Ausentes com Pandas:**
+* **Análise exploratória de pacientes de um hospital:**
+
+---
