@@ -42,11 +42,8 @@ Minhas credenciais englobam atuação em uma das maiores empresas de serviços p
 
 **LinkedIn:** https://bit.ly/3jHWeLZ
 
-
 ## Artigos:
 Veja os artigos publicados:
 
-* **a**
-
+* Lucro e dividendos distribuídos aos acionistas com base na Lei nº 6.404/76 e possíveis consequências da modificação da Lei nº 9.249/95:* https://bit.ly/3kTVx1q
 ---
-
